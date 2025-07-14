@@ -4,6 +4,7 @@ body{
 	/* background-position:center; */
 	background-size:cover;
 	background-repeat:none;
-	text-align:center;
+}
+h1{
 	color:white
 }
